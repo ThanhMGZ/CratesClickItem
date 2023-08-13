@@ -1,0 +1,8 @@
+name: CratesClickItem
+version: '${project.version}'
+main: vn.thanhmagics.cratesclickitem.CratesClickItem
+api-version: '1.20'
+commands:
+  cratesclickitem:
+    usage: /<command>
+    permission: op
